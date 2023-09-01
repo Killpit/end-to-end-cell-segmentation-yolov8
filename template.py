@@ -8,4 +8,8 @@ project_name = "cellSegmentation"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
+    "data/ .gitkeep",
+    f"{project_name}/__init__.py",
+    f"{project_name}/components/__init__.py",
+    f"{project_name}/components/__init__.py",
 ]
