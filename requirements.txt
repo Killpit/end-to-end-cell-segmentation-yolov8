@@ -3,6 +3,6 @@ from-root
 notebook
 gdown
 flask-cors
-flast
+flask
 ultralytics
 -e .
