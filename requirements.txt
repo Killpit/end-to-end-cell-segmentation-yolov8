@@ -1,0 +1,8 @@
+dill
+from-root
+notebook
+gdown
+flask-cors
+flast
+ultralytics
+-e .
