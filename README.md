@@ -9,3 +9,4 @@ End-to-end cell segmentation by using YoloV8 and Azure deployment.
 3. components
 4. pipelines
 5. app.py
+
