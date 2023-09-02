@@ -2,7 +2,7 @@
 
 End-to-end cell segmentation by using YoloV8 and Azure deployment.
 
-## Workflows
+## Workflows
 
 1. constants
 2. entity
